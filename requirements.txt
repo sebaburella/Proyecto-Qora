@@ -1,0 +1,14 @@
+dash==2.1.0
+dash-bootstrap-components==1.0.0
+dash-core-components
+dash-html-components
+dash-renderer
+dash-table
+jupyter-dash
+plotly
+pandas
+numpy
+scikit-learn
+yahoo-fin
+gunicorn==20.1.0
+Werkzeug==2.0.2
